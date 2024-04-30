@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # employee_management_system
 =======
 ## Getting Started
@@ -20,3 +21,6 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 >>>>>>> 9cadffb (first-commit)
+=======
+# employee_management-
+>>>>>>> 8673d09 (Initial commit)
