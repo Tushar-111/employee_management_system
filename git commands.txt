@@ -1,0 +1,47 @@
+
+Pavan Jadhav@DESKTOP-SGUF5OG MINGW64 ~/Desktop/myjava/empoyee management system (main|MERGING)
+$ git init
+Reinitialized existing Git repository in C:/Users/Pavan Jadhav/Desktop/myjava/em
+poyee management system/.git/
+
+Pavan Jadhav@DESKTOP-SGUF5OG MINGW64 ~/Desktop/myjava/empoyee management system (main|MERGING)
+$ git add .
+
+Pavan Jadhav@DESKTOP-SGUF5OG MINGW64 ~/Desktop/myjava/empoyee management system (main|MERGING)
+$ git commit -m "first commit"
+[main 3074efc] first commit
+
+Pavan Jadhav@DESKTOP-SGUF5OG MINGW64 ~/Desktop/myjava/empoyee management system (main)
+$ git branch -M main
+
+Pavan Jadhav@DESKTOP-SGUF5OG MINGW64 ~/Desktop/myjava/empoyee management system (main)
+$ git remote add origin https://github.com/Tushar-111/employee-.git
+error: remote origin already exists.
+
+Pavan Jadhav@DESKTOP-SGUF5OG MINGW64 ~/Desktop/myjava/empoyee management system (main)
+$ git remove remote origin
+git: 'remove' is not a git command. See 'git --help'.
+
+The most similar command is
+        remote
+
+Pavan Jadhav@DESKTOP-SGUF5OG MINGW64 ~/Desktop/myjava/empoyee management system (main)
+$ git remote remove origin
+
+Pavan Jadhav@DESKTOP-SGUF5OG MINGW64 ~/Desktop/myjava/empoyee management system (main)
+$ git remote add origin https://github.com/Tushar-111/employee-.git
+
+Pavan Jadhav@DESKTOP-SGUF5OG MINGW64 ~/Desktop/myjava/empoyee management system (main)
+$ git push -u origin main
+Enumerating objects: 53, done.
+Counting objects: 100% (53/53), done.
+Delta compression using up to 3 threads
+Compressing objects: 100% (46/46), done.
+Writing objects: 100% (53/53), 5.47 MiB | 422.00 KiB/s, done.
+Total 53 (delta 7), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (7/7), done.
+To https://github.com/Tushar-111/employee-.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+
+Pavan Jadhav@DESKTOP-SGUF5OG MINGW64 ~/Desktop/myjava/empoyee management system (main)
